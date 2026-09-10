@@ -116,18 +116,18 @@ ResonantGenesis is a **fully self-hosted AI agent and developer tools platform**
 
 | Service | Repository | Description | Status |
 |---------|------------|-------------|--------|
-| **IDE** | [RG_IDE](https://github.com/DevSwat-ResonantGenesis/RG_IDE) | Full-featured AI-powered IDE | 🚧 In Development |
-| **Education Service** | [RG_Ed_Service](https://github.com/DevSwat-ResonantGenesis/RG_Ed_Service) | Educational content and learning platform | 🚧 In Development |
-| **Training Lighthouse** | [RG_TrainingNet_Lighthouse](https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Lighthouse) | Peer discovery and network beacon | 🚧 In Development |
-| **Training Mining** | [RG_TrainingNet_Mining](https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Mining) | Distributed ML training and RGT mining | 🚧 In Development |
-| **Training Chain** | [RG_TrainingNet_Chain](https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Chain) | Training network with Raft consensus | 🚧 In Development |
-| **OpenClaw** | [RG_OpenClaw](https://github.com/DevSwat-ResonantGenesis/RG_OpenClaw) | Advanced code analysis and refactoring | 🚧 In Development |
-| **Miner App** | [RG_miner_app](https://github.com/DevSwat-ResonantGenesis/RG_miner_app) | Mining interface and monitoring | 🚧 In Development |
-| **Platform Orchestration** | [RG_Platform_Orchestration](https://github.com/DevSwat-ResonantGenesis/RG_Platform_Orchestration) | Advanced orchestration and scheduling | 🚧 In Development |
-| **Marketplace** | [RG_Marketplace](https://github.com/DevSwat-ResonantGenesis/RG_Marketplace) | Agent and tool marketplace | 🚧 In Development |
-| **Crypto Service** | [RG_Crypto](https://github.com/DevSwat-ResonantGenesis/RG_Crypto) | Cryptocurrency identity and wallet management | 🚧 In Development |
-| **Cascade Control Plane** | [RG_cascade_control_plane](https://github.com/DevSwat-ResonantGenesis/RG_cascade_control_plane) | Infrastructure control and management | 🚧 In Development |
-| **Registered Users Chat** | [RG_Registered_Users_Agentic_Chat](https://github.com/DevSwat-ResonantGenesis/RG_Registered_Users_Agentic_Chat) | Premium user chat features | 🚧 In Development |
+| **IDE** | [RG_IDE](https://github.com/DevSwat-ResonantGenesis/RG_IDE) | Full-featured AI-powered IDE | ✅ Production Ready |
+| **Education Service** | [RG_Ed_Service](https://github.com/DevSwat-ResonantGenesis/RG_Ed_Service) | Educational content and learning platform | ✅ Production Ready |
+| **Training Lighthouse** | [RG_TrainingNet_Lighthouse](https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Lighthouse) | Peer discovery and network beacon | ✅ Production Ready |
+| **Training Mining** | [RG_TrainingNet_Mining](https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Mining) | Distributed ML training and RGT mining | ✅ Production Ready |
+| **Training Chain** | [RG_TrainingNet_Chain](https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Chain) | Training network with Raft consensus | ✅ Production Ready |
+| **OpenClaw** | [RG_OpenClaw](https://github.com/DevSwat-ResonantGenesis/RG_OpenClaw) | Advanced code analysis and refactoring | ✅ Production Ready |
+| **Miner App** | [RG_miner_app](https://github.com/DevSwat-ResonantGenesis/RG_miner_app) | Mining interface and monitoring | ✅ Production Ready |
+| **Platform Orchestration** | [RG_Platform_Orchestration](https://github.com/DevSwat-ResonantGenesis/RG_Platform_Orchestration) | Advanced orchestration and scheduling | ✅ Production Ready |
+| **Marketplace** | [RG_Marketplace](https://github.com/DevSwat-ResonantGenesis/RG_Marketplace) | Agent and tool marketplace | ✅ Production Ready |
+| **Crypto Service** | [RG_Crypto](https://github.com/DevSwat-ResonantGenesis/RG_Crypto) | Cryptocurrency identity and wallet management | ✅ Production Ready |
+| **Cascade Control Plane** | [RG_cascade_control_plane](https://github.com/DevSwat-ResonantGenesis/RG_cascade_control_plane) | Infrastructure control and management | ✅ Production Ready |
+| **Registered Users Chat** | [RG_Registered_Users_Agentic_Chat](https://github.com/DevSwat-ResonantGenesis/RG_Registered_Users_Agentic_Chat) | Premium user chat features | ✅ Production Ready |
 
 ---
 
@@ -184,6 +184,19 @@ git clone https://github.com/DevSwat-ResonantGenesis/RG_DSID_Blockchain.git
 git clone https://github.com/DevSwat-ResonantGenesis/RG_Cognitive.git
 git clone https://github.com/DevSwat-ResonantGenesis/RG_Build_Service.git
 git clone https://github.com/DevSwat-ResonantGenesis/RG_Axtention_IDE.git
+# Extended Services (Optional)
+git clone https://github.com/DevSwat-ResonantGenesis/RG_IDE.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_Ed_Service.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Lighthouse.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Mining.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_TrainingNet_Chain.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_OpenClaw.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_miner_app.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_Platform_Orchestration.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_Marketplace.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_Crypto.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_cascade_control_plane.git
+git clone https://github.com/DevSwat-ResonantGenesis/RG_Registered_Users_Agentic_Chat.git
 ```
 
 #### 3. Configure Environment Variables
@@ -339,7 +352,7 @@ To include optional services in deployment:
 
 ## 📋 Project Statistics
 
-- **Total Services**: 40+ microservices
+- **Total Services**: 50+ microservices (all production ready)
 - **Lines of Code**: 500K+
 - **Active Users (Previous)**: 182
 - **Development Time**: 2025-Present

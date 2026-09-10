@@ -306,7 +306,7 @@ To include optional services in deployment:
 ### 🚀 Support the Project
 
 **Monthly Subscription: $9.99**
-[Support via Stripe](https://buy.stripe.com/eVq8wO3sA1gN3OV2AJ33W0e)
+[Support via Stripe](https://buy.stripe.com/eVq8wO8sA1gN3OV2AJ33W0e)
 
 **Direct Donations:**
 - **PayPal**: [@liubovNemesh](https://paypal.me/liubovNemesh)

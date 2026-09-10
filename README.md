@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚨 URGENT NOTICE: SERVER SHUTDOWN DUE TO FUNDING SHORTAGE
 
 ## ⚠️ CURRENT STATUS: PRODUCTION SERVER REMOVED FROM DIGITALOCEAN
@@ -10,20 +8,13 @@
 
 ---
 
-</div>
-
-<div align="center">
-
 # 🏗️ Louie Nemesh
-### AI System Architect & Full-Stack Developer
-### Solo Founder @ ResonantGenesis
+### AI System Architect & Full-Stack Developer | Solo Founder @ ResonantGenesis
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-182-blue)
-![Projects](https://img.shields.io/badge/Projects-40+-green)
+![Projects](https://img.shields.io/badge/Projects-50+-green)
 ![Experience](https://img.shields.io/badge/Experience-2018--Present-orange)
 ![Status](https://img.shields.io/badge/Status-Open_to_Investors-red)
-
-</div>
 
 ---
 
@@ -301,8 +292,6 @@ To include optional services in deployment:
 
 ## 💳 Support & Investment Channels
 
-<div align="center">
-
 ### 🚀 Support the Project
 
 **Monthly Subscription: $9.99**
@@ -317,13 +306,9 @@ To include optional services in deployment:
 - **Solana (SOL)**: `9hQ7dWYczTEwhBG22dQdkib2sKPJ4j8hzV1AoQPK9kCg`
 - **TON**: `TYj7cJhtUAWgcUNiHJt2yx69ET6ZuaSx2X`
 
-</div>
-
 ---
 
 ## 🌐 Connect & Social Media
-
-<div align="center">
 
 ### 📧 Contact Information
 - **Email**: [louie.nemesh.usa@gmail.com](mailto:louie.nemesh.usa@gmail.com)
@@ -337,7 +322,7 @@ To include optional services in deployment:
 - **GitHub**: [@louienemesh](https://github.com/louienemesh)
 - **Organization**: [DevSwat-ResonantGenesis](https://github.com/DevSwat-ResonantGenesis)
 
-</div>
+
 
 ---
 
@@ -390,8 +375,6 @@ To include optional services in deployment:
 
 ---
 
-<div align="center">
-
 ## 🚀 Let's Build the Future of AI Together
 
 **Your support can bring ResonantGenesis back online and help continue this ambitious project.**
@@ -399,5 +382,3 @@ To include optional services in deployment:
 [Contact for Investment](mailto:louie.nemesh.usa@gmail.com) | [Contact for Business](mailto:louie@dev-swat.com)
 
 **Generated with dedication by Louie Nemesh**
-
-</div>
